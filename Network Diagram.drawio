@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T23:51:16.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="syK8ClEO7NGPPHyLu8fH" version="14.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-13T23:56:23.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="gPx_nXahQu4jxSaC80au" version="14.1.9" type="github" pages="2">
   <diagram id="j7T_QJryYHNA7kSuIx29" name="Page-1">
-    <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,7 +20,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="N0TFtxQozmp_bnh3DZ9k-112" value="" style="ellipse;whiteSpace=wrap;html=1;strokeColor=#36393d;fontFamily=Helvetica;fontSize=10;fillColor=#eeeeee;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="726" y="-62" width="184" height="212" as="geometry" />
+          <mxGeometry x="720" y="-70" width="200" height="220" as="geometry" />
         </mxCell>
         <mxCell id="N0TFtxQozmp_bnh3DZ9k-78" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#36393d;fontFamily=Helvetica;fontSize=10;fillColor=#eeeeee;dashed=1;perimeterSpacing=0;" parent="1" vertex="1">
           <mxGeometry x="352" y="-23.5" width="184" height="184" as="geometry" />
@@ -447,14 +447,6 @@
             </mxGeometry>
           </mxCell>
         </UserObject>
-        <mxCell id="_eMbvr2y_kclxlrQHm6r-841" value="" style="group;dropTarget=0;" parent="1" vertex="1">
-          <mxGeometry x="368.7" y="35" width="217.5" height="60" as="geometry" />
-        </mxCell>
-        <UserObject label="KC-BNAS2&#xa;10.3.81.223&#xa;Gym Level 2&#xa;G11 Cabinet" lucidchartObjectId="uUvWIvX6uY77" id="_eMbvr2y_kclxlrQHm6r-842">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;fontFamily=Carlito;fontColor=#000000;spacing=0;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=6;fillColor=#ffffff;" parent="_eMbvr2y_kclxlrQHm6r-841" vertex="1">
-            <mxGeometry x="-77.16" y="7" width="217.5" height="24" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="" lucidchartObjectId="NMwWd~KAp5dG" id="_eMbvr2y_kclxlrQHm6r-863">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;spacing=0;fillOpacity=40;" parent="1" vertex="1">
             <mxGeometry x="326" y="800" width="99" height="88" as="geometry" />
@@ -677,6 +669,14 @@
         <UserObject label="ZoneDirector&lt;br&gt;10.3.81.40" lucidchartObjectId="QvuW4eHrpuL-" id="N0TFtxQozmp_bnh3DZ9k-125">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;fontColor=#000000;spacing=0;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=6;fillColor=#ffffff;" parent="1" vertex="1">
             <mxGeometry x="726" y="683" width="144" height="36" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="fgD63G8Rm-aReaO9I8aa-3" value="" style="group;dropTarget=0;" vertex="1" parent="1">
+          <mxGeometry x="393.88" y="37" width="71.3" height="55" as="geometry" />
+        </mxCell>
+        <UserObject label="KC-BNAS2&#xa;10.3.81.223&#xa;Gym Level 2&#xa;G11 Cabinet" lucidchartObjectId="uUvWIvX6uY77" id="fgD63G8Rm-aReaO9I8aa-4">
+          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;;whiteSpace=wrap;fontSize=11;fontFamily=Carlito;fontColor=#000000;spacing=0;strokeOpacity=0;fillOpacity=0;rounded=1;absoluteArcSize=1;arcSize=6;fillColor=#ffffff;" vertex="1" parent="fgD63G8Rm-aReaO9I8aa-3">
+            <mxGeometry x="-25.294289655172413" y="6.416666666666666" width="71.3" height="22" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
