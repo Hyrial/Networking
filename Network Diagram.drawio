@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T23:50:18.615Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6MaszPXS16mrH35cCZgP" version="14.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-13T23:51:16.198Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="syK8ClEO7NGPPHyLu8fH" version="14.1.9" type="github" pages="2">
   <diagram id="j7T_QJryYHNA7kSuIx29" name="Page-1">
     <mxGraphModel dx="2523" dy="1996" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -455,19 +455,9 @@
             <mxGeometry x="-77.16" y="7" width="217.5" height="24" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://isometric.itglue.com/785591/configurations/3100441" lucidchartObjectId="n9vWhfkPZJNB" id="_eMbvr2y_kclxlrQHm6r-847">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;spacing=0;fillOpacity=40;" parent="1" vertex="1">
-            <mxGeometry x="18.479999999999997" y="392" width="65" height="92" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="" lucidchartObjectId="NMwWd~KAp5dG" id="_eMbvr2y_kclxlrQHm6r-863">
           <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;spacing=0;fillOpacity=40;" parent="1" vertex="1">
             <mxGeometry x="326" y="800" width="99" height="88" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <UserObject label="" link="https://isometric.itglue.com/785591/configurations/3179768" lucidchartObjectId="rNwWQrCORD1m" id="_eMbvr2y_kclxlrQHm6r-865">
-          <mxCell style="html=1;overflow=block;blockSpacing=1;whiteSpace=wrap;strokeColor=none;fillColor=none;whiteSpace=wrap;fontSize=11;spacing=0;fillOpacity=40;" parent="1" vertex="1">
-            <mxGeometry x="370.59" y="19" width="63" height="92" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" lucidchartObjectId="dzxWfyReW8LM" id="_eMbvr2y_kclxlrQHm6r-869">
