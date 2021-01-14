@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-13T23:56:23.970Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="gPx_nXahQu4jxSaC80au" version="14.1.9" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-14T00:00:03.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="6S5lka5rAuQPFgEWuXHG" version="14.1.9" type="github" pages="2">
   <diagram id="j7T_QJryYHNA7kSuIx29" name="Page-1">
-    <mxGraphModel dx="2272" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1831" dy="1626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -508,7 +508,7 @@
             <mxGeometry x="377.09" y="8" width="50" height="34" as="geometry" />
           </mxCell>
         </UserObject>
-        <UserObject label="" link="https://isometric.itglue.com/785591/configurations/3100431" id="N0TFtxQozmp_bnh3DZ9k-51">
+        <UserObject label="" id="N0TFtxQozmp_bnh3DZ9k-51">
           <mxCell style="shape=mxgraph.cisco.switches.workgroup_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
             <mxGeometry x="826.5" y="481" width="65" height="40" as="geometry" />
           </mxCell>
